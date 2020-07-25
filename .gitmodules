@@ -1,9 +1,3 @@
-[submodule "ext/pybind11"]
-	path = ext/pybind11
-	url = git@github.com:pybind/pybind11.git
-[submodule "ext/pcg32"]
-	path = ext/pcg32
-	url = git@github.com:wjakob/pcg32.git
 [submodule "ext/eigen"]
 	path = ext/eigen
-	url = git@gitlab.com:libeigen/eigen.git
+	url = https://gitlab.com/libeigen/eigen.git
